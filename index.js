@@ -7,7 +7,7 @@ const pic = document.getElementById('pic');
 
 const userData = [
 	{
-		name: 'Narendra Singh',
+		name: 'Narendra Rathore',
 		age: '21',
 		location: 'Jodhpur,Rajasthan',
 		gender: 'Male',
